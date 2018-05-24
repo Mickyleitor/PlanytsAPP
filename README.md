@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Feel and go deeper in your travels
 
-You can use the [editor on GitHub](https://github.com/Mickyleitor/PlanytsAPP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+PlanytsAPP is a Scored and Social Base App which connects a potential traveller to a local expert.
+Experience and deeper travel through a city is something that isn't always given by conventional Travel Agencies.
+We found this isn't covered by regular solutions like Airbnb or TripAdvisor.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How it works?
 
-### Markdown
+| <img src="https://fast-wave-43306.herokuapp.com/img/how-it-works/city1.svg" width="100"> | <img src="https://fast-wave-43306.herokuapp.com/img/how-it-works/designer1.svg" width="100"> | <img src="https://fast-wave-43306.herokuapp.com/img/how-it-works/envio.svg" width="100">
+| -------------------------- | -------------------------- | -------------------------- |
+|      Choose your city      |   Design your Experience   |    Access to your trip     |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Task list
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mickyleitor/PlanytsAPP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [ ] Project Approval
+- [x] Gather and User Evaluation Feedback
+- [ ] MVP App using User Centered Design
+- [ ] User feedback on MVP App
+- [ ] Rapid prototyping and final project.
+- [ ] Generate Techincal documents and User Analysis
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Michele La Malva Moreno - [LinkedIn](https://www.linkedin.com/in/michele-la-malva-moreno/) | [Blogspot](https://mickysim.blogspot.com/) | [Github](https://github.com/Mickyleitor)
