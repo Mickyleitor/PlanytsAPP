@@ -6,7 +6,7 @@ We found this isn't covered by regular solutions like Airbnb or TripAdvisor.
 
 ### How it works?
 
-| <img src="https://fast-wave-43306.herokuapp.com/img/how-it-works/city1.svg" width="200"> | <img src="https://fast-wave-43306.herokuapp.com/img/how-it-works/designer1.svg" width="200"> | <img src="https://fast-wave-43306.herokuapp.com/img/how-it-works/envio.svg" width="200">
+| <img src="https://fast-wave-43306.herokuapp.com/img/how-it-works/city1.svg" width="150"> | <img src="https://fast-wave-43306.herokuapp.com/img/how-it-works/designer1.svg" width="150"> | <img src="https://fast-wave-43306.herokuapp.com/img/how-it-works/envio.svg" width="150">
 | -------------------------- | -------------------------- | -------------------------- |
 |      Choose your city      |   Design your Experience   |    Access to your trip     |
 
