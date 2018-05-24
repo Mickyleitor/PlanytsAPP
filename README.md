@@ -27,7 +27,7 @@ Users could search local expert, design the experience with them and finally sco
 
 An initial approach for the app should be a simply chat traveller-expert. User should be able to search a city and display available local expert. The search engine approach could be like Airbnb (though it offers differents services or not completely focused on)
 
-<img src="https://raw.githubusercontent.com/Mickyleitor/PlanytsAPP/master/docs/FirstMockup.png" width="500"> 
+<center><img src="https://raw.githubusercontent.com/Mickyleitor/PlanytsAPP/master/docs/FirstMockup.png" width="500"></center>
 
 Project will be done with well-known [App Inventor](http://appinventor.mit.edu) as it's designed for non-friendly App developers.
 
