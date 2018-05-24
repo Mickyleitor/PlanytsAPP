@@ -5,7 +5,7 @@ An independent solution for the web-based site [Planyts](http://www.planyts.com/
 
 Experience through a deep-city is something that isn't always given by conventional Travel Agencies.  
 We found this isn't covered by regular solutions like Airbnb or TripAdvisor.  
-Users could search local expert, design the experience with them and finally score it in order to obtain popularity.  
+Users could search local expert, design the experience and finally score it in order to obtain popularity.  
 
 
 ### How it works?
