@@ -25,11 +25,15 @@ Users could search local expert, design the experience and finally score it in o
 
 ### Initial Idea
 
-An initial approach for the app should be a simply chat traveller-expert. User should be able to search a city and display available local expert. The search engine approach could be like Airbnb (though it offers differents services or not completely focused on)
+An [initial approach](https://github.com/Mickyleitor/PlanytsAPP/blob/master/docs/FirstApproach/README.md) for the app should be a simply chat traveller-expert. User should be able to search a city and display available local expert. The search engine approach could be like Airbnb (though it offers differents services or not completely focused on)
 
-<center><img src="https://raw.githubusercontent.com/Mickyleitor/PlanytsAPP/master/docs/FirstMockup.png" width="500"></center>
+<center><img src="https://raw.githubusercontent.com/Mickyleitor/PlanytsAPP/master/docs/FirstApproach/Balsamiq-home.png" width="150"></center>
 
 Project will be done with well-known [App Inventor](http://appinventor.mit.edu) as it's designed for non-friendly App developers.
+
+### Historial Revisions about Mockups
+
+A page has been created to reflect the historical changes about designs, ideas and mockup. [Visit here](https://github.com/Mickyleitor/PlanytsAPP/blob/master/docs/README.md)
 
 ### Support or Contact
 
