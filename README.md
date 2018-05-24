@@ -29,6 +29,8 @@ An initial approach for the app should be a simply chat traveller-expert. User s
 
 <img src="https://raw.githubusercontent.com/Mickyleitor/PlanytsAPP/master/docs/FirstMockup.png" width="500"> 
 
+Project will be done with well-known [App Inventor](http://appinventor.mit.edu) as it's designed for non-friendly App developers.
+
 ### Support or Contact
 
 Michele La Malva Moreno - [LinkedIn](https://www.linkedin.com/in/michele-la-malva-moreno/) | [Blogspot](https://mickysim.blogspot.com/) | [Github](https://github.com/Mickyleitor)
