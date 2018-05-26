@@ -10,9 +10,13 @@ Users could search local expert, design the experience and finally score it in o
 
 ### How it works?
 
+<center>
+
 | <img src="https://fast-wave-43306.herokuapp.com/img/how-it-works/city1.svg" width="150"> | <img src="https://fast-wave-43306.herokuapp.com/img/how-it-works/designer1.svg" width="150"> | <img src="https://fast-wave-43306.herokuapp.com/img/how-it-works/envio.svg" width="150">
 | -------------------------- | -------------------------- | -------------------------- |
 |      Choose your city      |   Design your Experience   |    Access to your trip     |
+
+</center>
 
 ### Task list
 
