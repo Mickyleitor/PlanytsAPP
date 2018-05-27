@@ -1,6 +1,6 @@
 ## Feel and go deeper in your travels
 
-PlanytsAPP is a Scored and Social Base App which connects a potential traveller to a local expert.  
+PlanytsAPP is a Scored and Social Base App which aims to help in the planning proccess of a trip by connecting the traveller to a local expert.  
 An independent solution for the web-based site [Planyts](http://www.planyts.com/)
 
 Experience through a deep-city is something that isn't always given by conventional Travel Agencies.  
@@ -17,7 +17,7 @@ Users could search local expert, design the experience and finally score it in o
 
 ### Task list
 
-* [ ] Project Approval
+* [x] Project Approval
 * [x] Gather and User Evaluation Feedback
 * [ ] MVP App using User Centered Design
 * [ ] User feedback on MVP App
